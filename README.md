@@ -1,7 +1,7 @@
 ----- v2.0 of Google Geocoding Utility ----
 
 Application Description:
-Allows users to choose a CSV file with a column of (column of addresses must be named 'addresses') addresses, run them through the Google Geocoding API to create lat and long coordinates and then outputs them to a new output.csv file.
+Allows users to choose a CSV file with a column of addresses (column of addresses must be named 'addresses'), run them through the Google Geocoding API to create lat and long coordinates and then outputs them to a new output.csv file.
 
 Keep things simple by running the exe file provided or work with the pyfiles!
 
