@@ -10,6 +10,7 @@ Keep things simple by running the exe file provided or work with the pyfiles!
 Users must now provide their own Google API Key before application can be used.
 Users can now choose which columns in the input file to keep for the output file.
 example:
+
 input file columns:
 names, addresses, house color, square foot
 
